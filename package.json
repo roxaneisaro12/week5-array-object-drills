@@ -1,0 +1,9 @@
+
+{
+  "name": "week5-array-object-drills",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test-drills": "node drills.js"
+  }
+}
