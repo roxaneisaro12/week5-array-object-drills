@@ -58,4 +58,8 @@ npm run build
 
 The drill output includes checks confirming that the original orders data remains unchanged after each station.
 
+## Dashboard Screenshot
+
+![Kigali Eats Dashboard](screenshots/darshboard.png)
+
 
